@@ -1,0 +1,26 @@
+.nav{
+padding-left: 20%;
+padding-right: 20%;
+}
+
+.logo:hover{
+fill:rgb(148, 142, 142);
+}
+
+.logo{
+cursor: pointer;
+}
+
+.media {
+display: flex;
+justify-content: space-between;
+width: 11%;
+}
+
+.media svg {
+cursor:pointer;
+}
+
+.media svg:hover{
+fill:teal
+}

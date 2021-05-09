@@ -1,0 +1,11 @@
+.pieds{
+display: flex;
+flex-direction: column;
+margin-top: 3%;
+align-items: center;
+background-color: rgb(97, 87, 87);
+color: white;
+position:absolute;
+left: 0;
+right: 0;
+}
